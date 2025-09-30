@@ -7,6 +7,8 @@ description: Lecture presentation on the relevance to antineutrino analysis of g
 file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/69daed1451c5a93e31365034b1a9eac7_MIT12_091IAP10_lec1.pdf
 file_size: 4620926
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
