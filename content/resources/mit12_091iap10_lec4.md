@@ -7,8 +7,6 @@ description: Lecture presentation on proposed antineutrino detectors for probing
 file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/b3f73503bb569321b027783a9f03207c_MIT12_091IAP10_lec4.pdf
 file_size: 1863349
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

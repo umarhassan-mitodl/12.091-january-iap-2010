@@ -8,8 +8,6 @@ description: Lecture presentation on the relevance of existing large antineutrin
 file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/8c0a06fa81ee1a8403497f3011dd3640_MIT12_091IAP10_lec3.pdf
 file_size: 3071558
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
